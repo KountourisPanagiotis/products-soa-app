@@ -1,0 +1,15 @@
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\obj\Debug\net6.0\ProductsSOAApp.csproj.AssemblyReference.cache
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\obj\Debug\net6.0\ProductsSOAApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\obj\Debug\net6.0\ProductsSOAApp.AssemblyInfoInputs.cache
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\obj\Debug\net6.0\ProductsSOAApp.AssemblyInfo.cs
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\obj\Debug\net6.0\ProductsSOAApp.csproj.CoreCompileInputs.cache
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\bin\Debug\net6.0\ProductsSOAApp.exe
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\bin\Debug\net6.0\ProductsSOAApp.deps.json
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\bin\Debug\net6.0\ProductsSOAApp.runtimeconfig.json
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\bin\Debug\net6.0\ProductsSOAApp.dll
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\bin\Debug\net6.0\ProductsSOAApp.pdb
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\obj\Debug\net6.0\ProductsSOAApp.dll
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\obj\Debug\net6.0\refint\ProductsSOAApp.dll
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\obj\Debug\net6.0\ProductsSOAApp.pdb
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\obj\Debug\net6.0\ProductsSOAApp.genruntimeconfig.cache
+C:\Users\anele\source\repos\CodingFactory3\ProductsSOAApp\obj\Debug\net6.0\ref\ProductsSOAApp.dll
