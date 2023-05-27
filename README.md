@@ -14,7 +14,7 @@ Chapter 3 :
 - Simple exhibition program for database of `Products` managment
 - Dictionary as in-memory datasource for CRUD
 - Service-Oriented Architecture
-- Model, DAO, Service, DTO, Layers
+- Model, DAO, Service, DTO, Layers, Exceptions
 - Demonstration Main class
 - ascii art
 
