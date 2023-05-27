@@ -15,6 +15,7 @@ Chapter 3 :
 - Dictionary as in-memory datasource for CRUD
 - Service-Oriented Architecture
 - Model, DAO, Service, DTO, Layers
+- Demonstration Main class
 - ascii art
 
 ## Installation
