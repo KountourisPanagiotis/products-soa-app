@@ -23,4 +23,4 @@ To install and run the project, follow these steps:
 2. Run the project (no dependencies needed)
 
 ## Usage
-No user input needed, already has demonstration methods for all the classes
+No user input needed. Has demonstration methods for all the classes
